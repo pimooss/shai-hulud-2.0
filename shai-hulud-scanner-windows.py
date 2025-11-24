@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Shai-Hulud Supply Chain Attack Scanner for Windows
-Detects vulnerable npm packages from the November 2024-2025 attacks
+Detects vulnerable npm packages from the attacks on November 21-23, 2025.
 
 Based on research from:
 - https://www.wiz.io/blog/shai-hulud-2-0-ongoing-supply-chain-attack
