@@ -29,8 +29,8 @@ The Shai-Hulud attack is a self-replicating npm worm that:
 Clone or download the scanner repository.
 
 ```bash
-git clone https://github.com/your-repo/shai-hulud-scanner.git # Replace with actual repository URL
-cd shai-hulud-scanner
+git clone https://github.com/pimooss/shai-hulud-2.0.git
+cd shai-hulud-2.0
 ```
 
 For macOS, the `shair-hulud-scanner-macos.py` script needs executable permissions:
